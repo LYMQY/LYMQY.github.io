@@ -13,7 +13,7 @@ I'm currently a bachelor's student majoring in Computer Science and Technology a
 
 ## News
 
-- **[to be continued]** 
+- **[To be continued]** 
 
 {% include_relative _includes/publications.md %}
 
