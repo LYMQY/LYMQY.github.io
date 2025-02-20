@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm currently a Ph.D. student at Xi'an Jiaotong University
+I'm currently a bachelor's student majoring in Computer Science and Technology at <a href="https://www.xjtu.edu.cn/" target="_blank">Xi'an Jiaotong University</a>, and my minor subjects is Financial Technology.
 
 ## Research Interests
 
@@ -19,7 +19,7 @@ I'm currently a Ph.D. student at Xi'an Jiaotong University
 
 ## Experiences
 
-**(1) To be continued** - Research Intern
+**(1) China Construction Bank** - Research Intern (2025, Xi'an, China)
 
 
 ## Awards
