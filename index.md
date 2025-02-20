@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm currently a Ph.D. student at Xi'an Jiaotong University
 
 ## Research Interests
 
