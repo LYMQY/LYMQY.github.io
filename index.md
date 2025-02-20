@@ -13,7 +13,7 @@ I'm currently a bachelor's student majoring in Computer Science and Technology a
 
 ## News
 
-- **[to be continued]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[to be continued]** 
 
 {% include_relative _includes/publications.md %}
 
@@ -29,4 +29,5 @@ I'm currently a bachelor's student majoring in Computer Science and Technology a
 ## Other Fields
 Economy, Chinese whale, Trader
 
+## For future
 {% include_relative _includes/services.md %}
