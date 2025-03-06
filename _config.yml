@@ -5,6 +5,7 @@ affiliation: Xi’an Jiaotong University
 affiliation_link: http://www.xjtu.edu.cn/
 email: l60162448@gmail.com
 address: Xi'an, China
+address_link: lhttps://baike.baidu.com/item/西安市/1002501
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -25,7 +26,7 @@ instagram_link: https://www.instagram.com/your-profile-id
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avator.png
-favicon: ./assets/img/f.png
+favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
