@@ -23,6 +23,7 @@ I'm currently a bachelor's student majoring in Computer Science and Technology a
 
 
 ## Awards
+- **[Meritorious Winner.2025]** Mathematical Contest In Modeling
 - **[First Prize.2024]** UNIQLO Scholarship
 - **[Second Prize.2024]** Gold Award in Shaanxi Division of China International College Students' Innovation Competition（CICSIC）
 - **[Third Prize.2024]** China Robot Contest and RoboCup China Open 2024
