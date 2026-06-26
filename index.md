@@ -8,6 +8,7 @@ I'm currently a bachelor's student majoring in Computer Science and Technology a
 
 ## Research Interests
 
+- ****
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
@@ -20,16 +21,18 @@ I'm currently a bachelor's student majoring in Computer Science and Technology a
 ## Experiences
 
 **(1) China Construction Bank** - Research Intern (2025, Xi'an, China)
+**(2) ByteDance** - Agent Development Engineer (2026.4-, Beijing, China)
 
 
 ## Awards
+- **[First Prize.2025]** YanBao Scholarship
 - **[Meritorious Winner.2025]** Mathematical Contest In Modeling
 - **[First Prize.2024]** UNIQLO Scholarship
-- **[Second Prize.2024]** Gold Award in Shaanxi Division of China International College Students' Innovation Competition（CICSIC）
+- **[Second Prize.2024,2025]** Gold Award in Shaanxi Division of China International College Students' Innovation Competition（CICSIC）
 - **[Third Prize.2024]** China Robot Contest and RoboCup China Open 2024
 
 ## Other Fields
-Economy, Chinese whale, Trader
+Economy, Chinese whale, Trader, Language
 
 ## For future
 {% include_relative _includes/services.md %}
