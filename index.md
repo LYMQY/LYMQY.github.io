@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I'm currently a bachelor's student majoring in Computer Science and Technology at <a href="https://www.xjtu.edu.cn/" target="_blank">Xi'an Jiaotong University</a>, and my minor subjects is Financial Technology.
+I'm currently a master's student majoring in Computer Science at <a href="https://www.xjtu.edu.cn/" target="_blank">Xi'an Jiaotong University</a>. I received my B.S. degree in Computer Science and Economics  from Xi'an Jiaotong University.
 
 ## Research Interests
 
-- ****
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Autonomous Agents:** LLM-based optimization, multi-agent collaboration, memory-augmented networks
+- **AI for Science (AI4Science):** automated research workflows, algorithmic code design, literature understanding
+- **Multimodal Learning:** vision-language models (VLMs), GUI agents, visual tool chaining (VTC)
 
 ## News
 
@@ -21,6 +21,7 @@ I'm currently a bachelor's student majoring in Computer Science and Technology a
 ## Experiences
 
 **(1) China Construction Bank** - Research Intern (2025, Xi'an, China)
+
 **(2) ByteDance** - Agent Development Engineer (2026.4-, Beijing, China)
 
 

@@ -1,33 +1,25 @@
 main:
 
-  - title: "Morphologic evolution features of mosses in artificial sand-fixing vegetation in the Tengger Desert"
-    authors: <strong>Yuchen Wan</strong>, , Yanping Liu, Yongsheng Wu, Hongfei Jia, Tian Zhang, Yanhong Gao, Haotian Yang, Wanxue You, Jun Du, Rongliang Jia
-    conference_short: JoDR
-    conference: CSTPC/Journal of Desert Research, 2024.
-    pdf: http://www.desert.ac.cn/CN/10.7522/j.issn.1000-694X.2023.00119
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Dual-Cluster Memory Agent: Resolving Multi-Paradigm Ambiguity in Optimization Problem Solving"
+    authors: Xinyu Zhang*, <strong>Yuchen Wan*</strong>, Boxuan Zhang, Zesheng Yang, Lingling Zhang, Bifan Wei, Jun Liu (*Equal contribution)
+    conference_short: ACL
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2604.20183
+    code: https://github.com/LYMQY/OPS-Mem
+    page: https://arxiv.org/abs/2604.20183
+    bibtex: /#
     notes: Oral Presentation
-    image: ./assets/img/desert.jpg
+    image: ./assets/img/dcma.png
+  
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    authors: Xinyu Zhang*, Boxuan Zhang*, <strong>Yuchen Wan</strong>, Lingling Zhang, YiXing Yao, Bifan Wei, Yaqiang Wu, Jun Liu (*Equal contribution)
+    conference_short: ACL 
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    pdf: hhttps://arxiv.org/pdf/2604.21510
+    code: https://github.com/Waichenbxx/OptiVerse
+    data: https://huggingface.co/datasets/Waicheng/OptiVerse
+    bibtex: /#
+    image: ./assets/img/optiverse.png
+    notes: Findings
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
