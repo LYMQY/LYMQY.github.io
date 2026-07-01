@@ -12,7 +12,7 @@ main:
     image: ./assets/img/dcma.png
   
 
-  - title: OptiVerse: A Comprehensive Benchmark towards Optimization Problem Solving
+  - title: "OptiVerse: A Comprehensive Benchmark towards Optimization Problem Solving"
     authors: Xinyu Zhang*, Boxuan Zhang*, <strong>Yuchen Wan</strong>, Lingling Zhang, YiXing Yao, Bifan Wei, Yaqiang Wu, Jun Liu (*Equal contribution)
     conference_short: ACL 
     conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
